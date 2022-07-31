@@ -1,0 +1,5 @@
+name: InventoryLossOnPlayerKill
+version: ${project.version}
+main: dev.poke535.inventorylossonplayerkill.InventoryLossOnPlayerKill
+api-version: 1.19
+description: Player loses inventory when other player kills them, but does not lose inventory due to natural death.
